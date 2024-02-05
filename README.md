@@ -5,7 +5,7 @@ Hello there! I'm **Gabriel D.**, a passionate developer with a love for crafting
 
 ## 🔧 Technologies and Tools
 
-* 💻 Programming Languages: [C](https://devdocs.io/c/), [Python](https://docs.python.org/fr/3/), [PHP](https://www.php.net/docs.php), [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/javascript)
+* 💻 Programming Languages: [C++](https://en.cppreference.com/w/cpp), [C](https://devdocs.io/c/), [Python](https://docs.python.org/fr/3/), [PHP](https://www.php.net/docs.php), [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/javascript)
 * 🧰 Frameworks & Libraries: [ReactJS](https://legacy.reactjs.org/), [NodeJS](https://nodejs.org/), [Python threading](https://docs.python.org/3/library/threading.html), [Python socket](https://docs.python.org/3/library/socket.html)
 * ⚙️ Tools: AIs Assistants, [Miro](https://miro.com), [Figma](https://www.figma.com), [Blender](https://docs.blender.org)
 
